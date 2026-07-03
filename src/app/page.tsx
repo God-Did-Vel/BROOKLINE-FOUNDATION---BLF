@@ -152,7 +152,7 @@ export default function HomePage() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat scale-105 animate-pulse-slow pointer-events-none"
           style={{
             backgroundImage:
-              "url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&q=80&w=1920')",
+              "url('https://res.cloudinary.com/duweg8kpv/image/upload/v1783043897/Young-Girls_thgfsq.jpg')",
             filter: "brightness(0.3)",
           }}
         />
