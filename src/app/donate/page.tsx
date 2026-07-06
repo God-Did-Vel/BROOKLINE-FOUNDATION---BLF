@@ -321,7 +321,7 @@ export default function DonatePage() {
                   <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 font-sans text-sm text-slate-700 flex flex-col gap-3">
                     <div className="flex justify-between">
                       <span className="text-slate-400">Merchant</span>
-                      <span className="font-semibold text-navy">Brookline Foundation</span>
+                      <span className="font-semibold text-navy">Brokline Foundation</span>
                     </div>
                     <div className="flex justify-between">
                       <span className="text-slate-400">Reference</span>

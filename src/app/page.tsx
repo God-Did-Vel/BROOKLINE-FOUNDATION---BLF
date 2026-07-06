@@ -168,7 +168,7 @@ export default function HomePage() {
           >
             <span className="w-1 h-1 rounded-full bg-gold animate-ping" />
             <span className="font-sans text-xs uppercase tracking-widest text-gold">
-              Brookline Foundation - blf
+              Brokline Foundation - blf
             </span>
           </motion.div>
 

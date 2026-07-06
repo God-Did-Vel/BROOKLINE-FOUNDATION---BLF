@@ -56,7 +56,7 @@ export default function ChatWidget() {
                   <Sparkles className="w-5 h-5" />
                 </div>
                 <div>
-                  <h4 className="font-display font-bold text-base tracking-tight text-white">Brookline Assistant</h4>
+                  <h4 className="font-display font-bold text-base tracking-tight text-white">Brokline Assistant</h4>
                   <p className="font-sans text-[11px] text-white/70">Send us a quick message</p>
                 </div>
               </div>

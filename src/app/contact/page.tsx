@@ -66,19 +66,19 @@ export default function ContactPage() {
                 {
                   icon: <MapPin className="w-5 h-5 text-primary" />,
                   title: 'Office Address',
-                  desc: '100 Brookline Avenue, Suite 400, Boston, MA 02215',
+                  desc: '100 Brokline Avenue, Suite 400, Boston, MA 02215',
                 },
                 {
                   icon: <Phone className="w-5 h-5 text-primary" />,
                   title: 'Phone Number',
-                  desc: '+1 (617) 555-0192',
-                  href: 'tel:+16175550192',
+                  desc: '+234 803 899 4633',
+                  href: 'tel:+234 803 899 4633',
                 },
                 {
                   icon: <Mail className="w-5 h-5 text-primary" />,
                   title: 'Email Address',
-                  desc: 'info@brooklinefoundation.org',
-                  href: 'mailto:info@brooklinefoundation.org',
+                  desc: 'info@broklinefoundation.org',
+                  href: 'mailto:info@broklinefoundation.org',
                 },
               ].map((item, idx) => (
                 <div 

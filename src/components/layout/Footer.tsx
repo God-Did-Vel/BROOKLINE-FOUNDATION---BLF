@@ -47,7 +47,7 @@ export default function Footer() {
             />
               <div className="flex flex-col">
                 <span className="font-display font-extrabold text-white leading-none tracking-tight text-lg">
-                  BROOKLINE
+                  BROKLINE
                 </span>
                 <span className="font-sans font-medium text-[10px] tracking-[0.25em] text-gold leading-none mt-1">
                   FOUNDATION - BLF
@@ -105,7 +105,7 @@ export default function Footer() {
             <ul className="flex flex-col gap-4 text-sm text-white/70">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-gold shrink-0 mt-0.5" />
-                <span>100 Brookline Avenue, Suite 400,<br />Boston, MA 02215</span>
+                <span>100 Brokline Avenue, Suite 400,<br />Boston, MA 02215</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-gold shrink-0" />
@@ -113,7 +113,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-gold shrink-0" />
-                <a href="mailto:info@brooklinefoundation.org" className="hover:text-gold transition-colors duration-300">info@brooklinefoundation.org</a>
+                <a href="mailto:info@brooklinefoundation.org" className="hover:text-gold transition-colors duration-300">info@broklinefoundation.org</a>
               </li>
             </ul>
           </div>
@@ -155,7 +155,7 @@ export default function Footer() {
         {/* Lower footer copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/50">
           <div className="flex items-center gap-1.5">
-            <span>© {currentYear} Brookline Foundation. All Rights Reserved.</span>
+            <span>© {currentYear} Brokline Foundation. All Rights Reserved.</span>
             <span>•</span>
           </div>
           <div className="flex gap-6">

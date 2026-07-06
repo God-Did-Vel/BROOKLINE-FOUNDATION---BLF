@@ -39,7 +39,7 @@ export default function Navbar() {
           <div className="flex items-center gap-6">
             <a href="mailto:info@brooklinefoundation.org" className="flex items-center gap-1.5 hover:text-gold transition-colors">
               <Mail className="w-3.5 h-3.5 text-gold" />
-              <span>info@brooklinefoundation.org</span>
+              <span>info@broklinefoundation.org</span>
             </a>
             <span className="text-white/20">|</span>
             <a href="tel:+16175550192" className="flex items-center gap-1.5 hover:text-gold transition-colors">
@@ -70,7 +70,7 @@ export default function Navbar() {
             />
             <div className="flex flex-col">
               <span className="font-display font-extrabold text-navy leading-none tracking-tight text-lg md:text-xl group-hover:text-primary transition-colors">
-                BROOKLINE
+                BROKLINE
               </span>
               <span className="font-sans font-semibold text-[10px] tracking-[0.22em] text-gold leading-none mt-1">
                 FOUNDATION - BLF

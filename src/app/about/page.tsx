@@ -46,7 +46,7 @@ export default function AboutPage() {
 
   const leadership = [
     {
-      name: 'Dr. Evelyn Brookline',
+      name: 'Dr. Evelyn Brokline',
       role: 'Founder & Board President',
       bio: 'Evelyn holds a PhD in International Development from Harvard and spent 15 years directing youth education programs at the UN before launching BLF.',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400',
@@ -66,7 +66,7 @@ export default function AboutPage() {
   ];
 
   const timelineEvents = [
-    { year: '2018', title: 'Foundation Launch', desc: 'Brookline Foundation starts its first mentorship circle for 15 adolescent girls in Boston.' },
+    { year: '2018', title: 'Foundation Launch', desc: 'Brokline Foundation starts its first mentorship circle for 15 adolescent girls in Boston.' },
     { year: '2020', title: 'STEM & Tech Expansion', desc: 'Opened our first Tech & Digital Skills Lab, providing laptops and coding classes to 100+ girls.' },
     { year: '2022', title: 'Health Outreach Kickoff', desc: 'Initiated period hygiene distributions and comprehensive health seminars, lowering school dropout rates.' },
     { year: '2024', title: 'Going Global', desc: 'Secured international grants, extending operations to support over 5,000 girls in under-resourced hubs.' },
@@ -76,7 +76,7 @@ export default function AboutPage() {
     <div className="w-full bg-white">
       {/* Reusable Premium Hero Section */}
       <HeroSection
-        title="About Brookline Foundation"
+        title="About Brokline Foundation"
         subtitle="Discover our journey, core values, mission, and the dedicated team driving positive, sustainable change."
         breadcrumb={[{ label: 'About Us', href: '/about' }]}
         bgImage="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80&w=1920"
@@ -95,7 +95,7 @@ export default function AboutPage() {
             <span className="font-sans font-bold text-xs uppercase tracking-widest text-primary">OUR ORIGINS</span>
             <h2 className="font-display font-extrabold text-3xl text-navy">Building Bridges of Opportunity</h2>
             <p className="font-sans text-slate-600 text-sm leading-relaxed">
-              {settings.about_story || 'Founded in 2018, Brookline Foundation began with a simple observation: local development efforts are exponentially more successful when adolescent girls are given equal access to leadership and educational tools. What started as a local mentorship circle in Massachusetts has grown into an international non-profit impacting thousands of young women worldwide through targeted training, digital literacy, and community-led health programs.'}
+              {settings.about_story || 'Founded in 2018, Brokline Foundation began with a simple observation: local development efforts are exponentially more successful when adolescent girls are given equal access to leadership and educational tools. What started as a local mentorship circle in Massachusetts has grown into an international non-profit impacting thousands of young women worldwide through targeted training, digital literacy, and community-led health programs.'}
             </p>
           </motion.div>
           <motion.div 
